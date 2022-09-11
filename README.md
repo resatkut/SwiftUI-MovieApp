@@ -5,13 +5,9 @@ Movie App made with SwiftUI
 
 ## Screenshots
 
-### LaunchScreen
+### LaunchScreen and HomeScreen
 
-<img src="https://user-images.githubusercontent.com/113136227/189526113-479a72a8-b1e8-45e3-9969-331996821f3e.png"  width=50% height=50%>
-
-### HomeScreen
-
-<img src="https://user-images.githubusercontent.com/113136227/189526185-9bb1b7d6-bd0b-44ab-884c-3d6f5d4b5cc8.png"  width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/113136227/189526113-479a72a8-b1e8-45e3-9969-331996821f3e.png"  width=50% height=50%><img src="https://user-images.githubusercontent.com/113136227/189526185-9bb1b7d6-bd0b-44ab-884c-3d6f5d4b5cc8.png"  width=50% height=50%>
 
 
 ### MovieScreen
